@@ -156,7 +156,7 @@ function boardSetup()
 	$("#matchtimer").css({"position":"inline","width":"300"});
 	//revealAll();
 	
-	window.setTimeout(function(){startRound()},3000);
+	window.setTimeout(function(){startRound()},1000);
 }
 
 //starts next round
